@@ -1,0 +1,26 @@
+{
+  "name": "ruay_huay",
+  "version": "1.0.0",
+  "description": "Ruay เว็บรวย เว็บหวยออนไลน์ มาแรงอันดับ 1ในไทย",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basicjame1/ruay_huay.git"
+  },
+  "keywords": [
+    "ruay",
+    "เว็บรวย",
+    "สมัครRuay",
+    "สมัครเว็บรวย",
+    "เข้าเล่นเว็บรวยฟรี"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basicjame1/ruay_huay/issues"
+  },
+  "homepage": "https://github.com/basicjame1/ruay_huay#readme"
+}
